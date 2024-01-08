@@ -5,6 +5,14 @@ body {
   font-family: Lato, sans-serif;
 }
 
+.main-h1 {
+  text-align: center;
+  color: #333;
+  font-size: 15px;
+  padding: 10px 0 10px;
+  margin: 0;
+}
+
 .aaa {
   width: 500px;
   margin: 0 auto;
