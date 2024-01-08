@@ -34,7 +34,7 @@ body {
   }
 }
 
-.centered-main-page-element {
+.center-elem {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -158,7 +158,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#compl-tasks label {
   text-decoration: line-through;
   color: #888;
 }
